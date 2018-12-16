@@ -20,7 +20,6 @@ class App extends Component {
       dispalyComponent: <ListBook userId={id} OnShowBook={this.showBook}/>,
     });
   }
-
   render() {
     return (
       <div>
